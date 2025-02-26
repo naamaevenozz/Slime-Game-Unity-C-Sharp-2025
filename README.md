@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nWK_6MNF)
+A game where the character has to escape from the enemies inside the aquarium. The enemies are launched in waves with their angle calculated according to the player's position.
 Cheats Functionality
 Key Combinations and Their Effects
 
