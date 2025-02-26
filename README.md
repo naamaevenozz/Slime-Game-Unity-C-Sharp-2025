@@ -1,8 +1,6 @@
 A game where the character has to escape from the enemies inside the aquarium. The enemies are launched in waves with their angle calculated according to the player's position.
-**
-Cheats Functionality**
-Key Combinations and Their Effects
 
+Cheats Functionality
 1. Quit Game
 
 Key Combination: Escape
